@@ -1,0 +1,19 @@
+body
+{
+    padding: 0;
+    margin:  0;
+    background-color: #121212;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.menu
+{
+    border: 5px solid red;
+    background-color: wheat;
+    width: 300px;
+    padding: 25px;
+    position: absolute;
+    color: black;
+}
